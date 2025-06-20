@@ -6,7 +6,7 @@
 
 ## 🔍 Sobre o Projeto
 
-Este projeto visa regristrar como está sendo os primeiros scripts dos estudos de **Engenharia de Dados**, visualizando na pratica todas as etapas de ETL (Extract, Transform and Load), quais bibliotecas mais utilizadas, passos importantes para projeto reais, quais melhores práticas devem ser mantidas quando se trata deste assunto e reforçar os conhecimentos de programação orientada a objeto utilizando o python.
+Este projeto visa registrar como está sendo os primeiros scripts dos estudos de **Engenharia de Dados**, visualizando na pratica todas as etapas de ETL (Extract, Transform and Load), quais bibliotecas mais utilizadas, passos importantes para projeto reais, quais melhores práticas devem ser mantidas quando se trata deste assunto e reforçar os conhecimentos de programação orientada a objeto utilizando o python.
 
 ## 🚴‍♂️ Etapas do projeto
 O projeto consistia em fazer a extração dos dados de diferentes extensões sendo um em ".csv" e outro "json", tratar todos os dados e uni-lós em uma base inteira com extensão ".csv". O desafio maior estava nos arquivos ".csv" que continua uma coluna a menos que a "json" e precisavamos tratar estes dados para que não ficasse com "NaN" e foi trocado para "Indisponível" foi será "recebido" posteriormente.
