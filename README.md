@@ -1,6 +1,6 @@
 # 🏗️ Engenharia_dados (1º Passos)
 
-![Badge Status](https://img.shields.io/badge/status-em%20concluido-green)
+![Badge Status](https://img.shields.io/badge/status-%20concluido-green)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
